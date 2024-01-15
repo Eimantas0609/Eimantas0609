@@ -17,7 +17,3 @@ Skills: HTML / CSS / JS / NodeJS / MySQL / REACT / JAVA / QA automatic testing (
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eimantas0609)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Eimantas0609)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Eimantas0609)  
-
