@@ -3,10 +3,18 @@
 
 ![I looking for a job](https://github.com/Eimantas0609/Eimantas0609/blob/main/asserts/i_am.png)
 
-From extensive experience in the field of physical labour, I have evolved to explore new career paths, culminating in a successful completion of
-programming courses. At present, I am ardently enhancing my English
-skills while diving deeper into various programming disciplines from
-UDEMY. I am excited and eager to bring my stack of skills to your team.
+While my background primarily consists of diverse manual labor
+positions, I've made a deliberate shift in my career trajectory
+towards Information Technology. I successfully undertook
+programming and automated testing courses to build skills
+foundation. Currently, I am dedicated in improving proficiency in
+English language and refining my programming and testing
+capabilities.
+Upon finishing the automated testing course at Vilnius Coding
+School, I discovered a strong inclination to pursue a career as a
+junior tester.
+I am now actively seeking new opportunities in the testing domain
+to further progress in my professional journey.
 
 
 
