@@ -5,7 +5,7 @@
 From extensive experience in the field of physical labour, I have evolved to explore new career paths, culminating in a successful completion of
 programming courses. At present, I am ardently enhancing my English
 skills while diving deeper into various programming disciplines from
-UDEMI. I am excited and eager to bring my stack of skills to your team.
+UDEMY. I am excited and eager to bring my stack of skills to your team.
 
 
 
