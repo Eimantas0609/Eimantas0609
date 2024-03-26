@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Eimantas
-#### I looking for a job
+#### I'am a Junior QA tester,
+####looking for new career opportunities!
 ![I looking for a job](https://github.com/Eimantas0609/Eimantas0609/blob/main/asserts/i_am.png)
 
 From extensive experience in the field of physical labour, I have evolved to explore new career paths, culminating in a successful completion of
